@@ -7,7 +7,7 @@
 <!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Developer;DSA+Enthusiast;React+Developer;Future+Product-Based+Engineer;Consistency+%3E+Motivation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+React+Developer;Data+Structures+%26+Algorithms;Future+Product-Based+Engineer;Consistency+%3E+Motivation"/>
 </p>
 
 ---
@@ -16,27 +16,19 @@
 
 ```yaml
 Name: Pratham Gupta
-Education: B.Tech – AI & Data Science (3rd Year)
+Education: B.Tech (AI & Data Science) – 3rd Year
 Location: India
 Primary Stack: Java, Spring Boot, React, MySQL
-Focus: Backend Development + Data Structures
-Career Goal: Software Engineer at a Product-Based Company
+Focus Areas: Data Structures, Backend Development, System Design
+Goal: Become a Software Engineer at a Top Product-Based Company
 ```
 
-I am a **backend focused developer** passionate about building scalable systems and solving complex algorithmic problems.
+I am a **backend focused developer** passionate about:
 
-* 🚀 Building real-world projects
-* 🧠 Practicing Data Structures & Algorithms
-* ⚙️ Learning System Design
-* 💻 Exploring Backend Engineering
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,postgres,git,github,docker,linux,js,html,css&theme=dark"/>
-</p>
+* Building **scalable backend systems**
+* Solving **DSA problems**
+* Learning **System Design**
+* Developing **real-world projects**
 
 ---
 
@@ -44,54 +36,81 @@ I am a **backend focused developer** passionate about building scalable systems 
 
 ### Languages
 
+```
 Java • JavaScript • SQL
+```
 
 ### Backend
 
+```
 Spring Boot • REST APIs • Node.js
+```
 
 ### Frontend
 
+```
 React • HTML • CSS
+```
 
 ### Databases
 
+```
 MySQL • PostgreSQL
+```
 
-### Tools
+### Tools & DevOps
 
+```
 Git • GitHub • Docker • Linux
+```
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,postgres,git,github,docker,linux,js,html,css&theme=dark"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 💼 SmartHire – AI Resume Screening System
+### 💼 SmartHire (AI Resume Screening System)
 
-**Features**
+Features:
 
-* Resume Upload System
+* Resume Upload
 * Candidate Ranking
 * Job Matching
 * Admin Dashboard
 
-**Tech Stack**
+Tech Stack
 
-Java • Spring Boot • React • MySQL
+```
+React
+Spring Boot
+MySQL
+REST API
+```
 
 ---
 
-## 📊 Activity Tracker App
+### 📊 Activity Tracker App
 
-**Features**
+Features
 
 * Background activity tracking
 * Screen time monitoring
 * Usage analytics
 
-**Tech Stack**
+Tech Stack
 
-React Native • Node.js • MongoDB
+```
+React Native
+Node.js
+MongoDB
+```
 
 ---
 
@@ -106,7 +125,7 @@ React Native • Node.js • MongoDB
 
 # 🏆 Achievements
 
-* Solving problems on **LeetCode**
+* Solved **DSA problems on LeetCode**
 * Built **Full Stack Projects**
 * Consistent **GitHub Contributions**
 
@@ -116,9 +135,9 @@ React Native • Node.js • MongoDB
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratham0418&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pratham0418&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham0418&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham0418&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -143,7 +162,7 @@ React Native • Node.js • MongoDB
 # 🧩 LeetCode Stats
 
 <p align="center">
-<img width="70%" src="https://leetcode.jacoblin.cool/PrathamGupta18?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcode.jacoblin.cool/PrathamGupta18?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
@@ -156,23 +175,15 @@ React Native • Node.js • MongoDB
 
 ---
 
-# 💡 Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pratham-gupta-967a00329/">
+<a href="https://www.linkedin.com/in/pratham-gupta-967a00329/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/PrathamGupta18/">
+<a href="https://leetcode.com/u/PrathamGupta18/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -184,21 +195,13 @@ React Native • Node.js • MongoDB
 
 ---
 
-# 👀 Visitor Count
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Pratham0418&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
 # ⚡ Fun Fact
 
 > I believe **Consistency beats Motivation**.
-> Every day I try to become **1% better in coding and development.**
+> Every day I try to become **1% better in coding and development**.
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=120&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=Pratham0418&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
