@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=260&section=header&text=Rishabh%20Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20IT%20|%20Software%20Engineering%20Aspirant&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=260&section=header&text=Pratham%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20IT%20|%20Software%20Engineering%20Aspirant&descAlignY=55&descSize=20"/>
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
